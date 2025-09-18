@@ -1,5 +1,6 @@
 ### TrongNghia's profile
 ## My portfolio:
+https://nghia-s-page.github.io/code-my-palette/
 ## 🌟 About me
 - 👋I'm Trọng Nghĩa, you can call me Nghĩa for short
 - 📖Currently studying __Computer Science__ at Ho Chi Minh University of Technology(__BKU__)
